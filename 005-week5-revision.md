@@ -134,3 +134,10 @@ try {
   client.release(); // Crucial step!
 }
 ```
+
+---
+
+## 5. Practical Task
+
+A complete practical task demonstrating these concepts can be found here:
+[Week 5 Practical Task](https://github.com/rahulkhatwani78/postgresql/tree/master/006-week5-practicalTask)
